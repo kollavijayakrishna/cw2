@@ -1,4 +1,4 @@
-// CPP code to illustrate Queue in 
+
 // Standard Template Library (STL)
 #include <iostream>
 #include <queue>
